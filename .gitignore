@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+frontend/.angular/
+
+# Environment files (keep .env.example instead)
+backend/.env
+
+# Build outputs
+backend/dist/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+*.tmp
+*.temp
