@@ -27,7 +27,7 @@ A modern, full-stack student registration application built with Angular, Node.j
 
 This is a production-ready full-stack application designed for educational institutions to manage student registrations. The system includes a modern Angular frontend with reactive forms and a RESTful API backend powered by Node.js and Express.
 
----
+
 
 ## 🛠 Tech Stack
 
